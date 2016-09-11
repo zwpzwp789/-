@@ -1,2 +1,0 @@
-# computationalphysics_N2014301020095
-喵酱的计算物理
