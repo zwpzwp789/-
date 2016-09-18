@@ -1,6 +1,6 @@
 # Homework list
 - [ ] [Exercise_01:]() 
-- [ ] [Exerscis_02:spell my name]() 
+- [ ] [Exerscis_02:spell my name](https://github.com/zwpzwp789/computationalphysics_N2014301020095/blob/master/Exercise_02.md) 
 - [ ] [Exercise_03:]() 
 - [ ] [Exercise_04:]() 
 - [ ] [Exercise_05:]() 
