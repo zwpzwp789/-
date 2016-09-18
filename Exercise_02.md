@@ -1,4 +1,4 @@
-﻿# Exercise_02
+# Exercise_02
 print("#####  #   #   #  ####")
 print("   #   #  # #  #  #  #")
 print("  #    # #   # #  ###")
