@@ -1,7 +1,7 @@
 # Homework list
 - [ ] [Exercise_01:]() 
-- [ ] [Exerscis_02:拼写自己的名字](https://github.com/zwpzwp789/computationalphysics_N2014301020095/blob/master/Exercise_02.md) 
-- [ ] [Exercise_03:让名字动起来]() 
+- [x] [Exerscis_02:拼写自己的名字](https://github.com/zwpzwp789/computationalphysics_N2014301020095/blob/master/Exercise_02.md) 
+- [x] [Exercise_03:让名字动起来](https://www.zybuluo.com/zwpzwp789/note/498714) 
 - [ ] [Exercise_04:]() 
 - [ ] [Exercise_05:]() 
 - [ ] [Exercise_06:]() 
