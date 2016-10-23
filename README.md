@@ -4,6 +4,6 @@
 - [x] [Exercise_03:让名字动起来](https://www.zybuluo.com/zwpzwp789/note/498714) 
 - [x] [Exercise_04:Problem 1.5](https://www.zybuluo.com/zwpzwp789/note/498714) 
 - [x] [Exercise_05:Problem 2.6](https://www.zybuluo.com/zwpzwp789/note/498714) 
-- [ ] [Exercise_06:]() 
+- [x] [Exercise_06:Problem 2.10](https://www.zybuluo.com/zwpzwp789/note/498714) 
 - [ ] [Exercise_07:]() 
 - [ ] [Exercise_08:]() 
