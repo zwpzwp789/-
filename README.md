@@ -9,3 +9,4 @@
 - [x] [Exercise_08:Problem3.20](https://www.zybuluo.com/zwpzwp789/note/565968) 
 - [x] [Exercise_09Problem3.31](https://www.zybuluo.com/zwpzwp789/note/573757) 
 - [x] [Exercise_10Problem4.9](https://www.zybuluo.com/zwpzwp789/note/581817) 
+- [x] [Exercise_10Problem4.19](https://www.zybuluo.com/zwpzwp789/note/591073)
